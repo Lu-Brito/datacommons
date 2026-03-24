@@ -41,7 +41,7 @@ The lab brings together an interdisciplinary team, integrating perspectives from
 ## About me 
 
 <p align="center">
-  <img src="./images/lu-brito.jpg" alt="Lu Brito" width="200" style="border-radius:50%;">
+  <img src="./images/WhatsApp Image 2026-03-24 at 18.17.40.jpeg" alt="Lu Brito" width="200" style="border-radius:50%;">
 </p>
 
 I am Lu Brito, an instructional designer working with the Government of Rio de Janeiro for over 10 years, and a PhD candidate at UFRJ. I am passionate about creating engaging, out-of-the-box learning experiences in collaboration with creative people committed to social causes. In my free time, I enjoy cycling, climbing, swimming in the ocean, and spending time with my black cat, the Cowboy :)
