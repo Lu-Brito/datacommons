@@ -14,11 +14,15 @@ This project is inspired by the pedagogical principles of Paulo Freire, particul
 
 It adopts participatory and co-design methods to collaboratively develop learning strategies with participants. These approaches are operationalized through creative workshops, where participants actively engage in the co-creation of data literacy practices and learning experiences.
 
-<p align="center">
-  <img src="./20231016_154844.jpg" alt="Workshop 1" width="300" style="margin-right:10px">
-  <img src="./20231016_161631.jpg" alt="Workshop 2" width="300" style="margin-right:10px">
-  <img src="./20231016_162224.jpg" alt="Workshop 3" width="300">
-</p>
+
+<table align="center">
+  <tr>
+    <td><img src="./20231016_154844.jpg" alt="Workshop 1" width="300"></td>
+    <td><img src="./20231016_161631.jpg" alt="Workshop 2" width="300"></td>
+    <td><img src="./20231016_162224.jpg" alt="Workshop 3" width="300"></td>
+  </tr>
+</table>
+
 
 ## Early outputs
 
