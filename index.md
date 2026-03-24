@@ -1,6 +1,6 @@
 
 
-# Data Commons Project
+# Data Commons 
 
 Research project focused on data literacy in vulnerable communities, exploring participatory and situated approaches to data education.
 
@@ -10,9 +10,15 @@ This project is part of a PhD research at UFRJ and investigates how communities 
 
 ## Methods
 
-This project is inspired by the pedagogical principles of Paulo Freire, particularly as articulated in *Pedagogy of the Oppressed*, emphasizing critical consciousness, dialogue, and collective knowledge production.
+This project is inspired by the pedagogical principles of Paulo Freire, particularly as articulated in *Pedagogy of the Oppressed*, emphasizing creativity, critical consciousness, dialogue, and collective knowledge production.
 
 It adopts participatory and co-design methods to collaboratively develop learning strategies with participants. These approaches are operationalized through creative workshops, where participants actively engage in the co-creation of data literacy practices and learning experiences.
+
+<p align="center">
+  <img src="./20231016_154844.jpg" alt="Workshop 1" width="300" style="margin-right:10px">
+  <img src="./20231016_161631.jpg" alt="Workshop 2" width="300" style="margin-right:10px">
+  <img src="./20231016_162224.jpg" alt="Workshop 3" width="300">
+</p>
 
 ## Early outputs
 
@@ -25,6 +31,8 @@ It adopts participatory and co-design methods to collaboratively develop learnin
 ![Nosso time de pesquisadores!](./IMG-20251210-WA0063.jpg)
 
 The SocialTech Lab at UFRJ conducts research in Human-Computer Interaction (HCI) and Computer-Supported Cooperative Work (CSCW), with a strong focus on socially situated and community-driven technologies. The lab is particularly interested in how data practices can support expression, learning, and rights advocacy in socially vulnerable contexts. Its work emphasizes participatory and co-design approaches, engaging communities as active contributors throughout the research process. 
+
+
 
 Projects developed within the lab often involve workshops, data literacy initiatives, and the creation of visual and material artifacts, such as data visualizations and photovoice outputs.
 
