@@ -32,6 +32,14 @@ It adopts participatory and co-design methods to collaboratively develop learnin
 
 ## SocialTech Lab (UFRJ)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lu-Brito/towardsdataliteracy/gh-pages/Luciana.jpeg" 
+       alt="Lu Brito" 
+       width="200" 
+       height="200" 
+       style="border-radius:50%; object-fit: cover;">
+</p>
+
 The SocialTech Lab at UFRJ conducts research in Human-Computer Interaction (HCI) and Computer-Supported Cooperative Work (CSCW), with a strong focus on socially situated and community-driven technologies. The lab is particularly interested in how data practices can support expression, learning, and rights advocacy in socially vulnerable contexts. Its work emphasizes participatory and co-design approaches, engaging communities as active contributors throughout the research process. 
 
 Projects developed within the lab often involve workshops, data literacy initiatives, and the creation of visual and material artifacts, such as data visualizations and photovoice outputs.
@@ -41,7 +49,7 @@ The lab brings together an interdisciplinary team, integrating perspectives from
 ## About me 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Lu-Brito/towardsdataliteracy/gh-pages/Luciana.jpeg" 
+  <img src="https://raw.githubusercontent.com/Lu-Brito/towardsdataliteracy/gh-pages/IMG-20251210-WA0063.jpg" 
        alt="Lu Brito" 
        width="200" 
        height="200" 
