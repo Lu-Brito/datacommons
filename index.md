@@ -1,3 +1,5 @@
+
+
 # Data Commons
 
 Research project focused on data literacy in vulnerable communities, exploring participatory and situated approaches to data education.
@@ -19,6 +21,8 @@ It adopts participatory and co-design methods to collaboratively develop learnin
 [Research Papers & Book Chapters](https://scholar.google.com.br/citations?user=0CXXxe0AAAAJ&hl=pt-BR&authuser=1)
 
 ## SocialTech Lab (UFRJ)
+
+![Nosso time de pesquisadores!](./IMG-20251210-WA0063.jpg)
 
 The SocialTech Lab at UFRJ conducts research in Human-Computer Interaction (HCI) and Computer-Supported Cooperative Work (CSCW), with a strong focus on socially situated and community-driven technologies. The lab is particularly interested in how data practices can support expression, learning, and rights advocacy in socially vulnerable contexts. Its work emphasizes participatory and co-design approaches, engaging communities as active contributors throughout the research process. 
 
