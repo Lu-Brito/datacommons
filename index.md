@@ -1,6 +1,6 @@
 
 
-# Data Commons
+# Data Commons Project
 
 Research project focused on data literacy in vulnerable communities, exploring participatory and situated approaches to data education.
 
