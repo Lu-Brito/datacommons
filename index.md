@@ -32,8 +32,6 @@ It adopts participatory and co-design methods to collaboratively develop learnin
 
 ## SocialTech Lab (UFRJ)
 
-![Nosso time de pesquisadores!](./IMG-20251210-WA0063.jpg)
-
 The SocialTech Lab at UFRJ conducts research in Human-Computer Interaction (HCI) and Computer-Supported Cooperative Work (CSCW), with a strong focus on socially situated and community-driven technologies. The lab is particularly interested in how data practices can support expression, learning, and rights advocacy in socially vulnerable contexts. Its work emphasizes participatory and co-design approaches, engaging communities as active contributors throughout the research process. 
 
 
