@@ -50,7 +50,7 @@ I am Lu Brito, an instructional designer working with the Government of Rio de J
 - Computer-Supported Cooperative Work (CSCW)  
 - Data Literacy  
 - Socially vulnerable communities
-- Feminism & Race
+- Race & Feminism
 
 ## Contact
 
