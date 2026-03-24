@@ -2,11 +2,11 @@
 
 # Data Commons Initiative
 
-Research project focused on data literacy in vulnerable communities, exploring participatory and situated approaches to data education.
+Data Commons is a research project focused on data literacy in vulnerable communities, exploring participatory and situated approaches to data education.
 
 ## About
 
-This project is part of a PhD research at UFRJ and investigates how communities engage with data through workshops, visual practices, and collective reflection.
+This project is part of a Ph.D research at UFRJ and investigates how communities engage with data through workshops, visual practices, and collective reflection, grounded in Popular Education.
 
 ## Methods
 
@@ -34,13 +34,15 @@ It adopts participatory and co-design methods to collaboratively develop learnin
 
 The SocialTech Lab at UFRJ conducts research in Human-Computer Interaction (HCI) and Computer-Supported Cooperative Work (CSCW), with a strong focus on socially situated and community-driven technologies. The lab is particularly interested in how data practices can support expression, learning, and rights advocacy in socially vulnerable contexts. Its work emphasizes participatory and co-design approaches, engaging communities as active contributors throughout the research process. 
 
-
-
 Projects developed within the lab often involve workshops, data literacy initiatives, and the creation of visual and material artifacts, such as data visualizations and photovoice outputs.
 
 The lab brings together an interdisciplinary team, integrating perspectives from computing, design, education, and the social sciences, and is committed to bridging academic research with real-world impact.
 
 ## About me 
+
+<p align="center">
+  <img src="./images/lu-brito.jpg" alt="Lu Brito" width="200" style="border-radius:50%;">
+</p>
 
 I am Lu Brito, an instructional designer working with the Government of Rio de Janeiro for over 10 years, and a PhD candidate at UFRJ. I am passionate about creating engaging, out-of-the-box learning experiences in collaboration with creative people committed to social causes. In my free time, I enjoy cycling, climbing, swimming in the ocean, and spending time with my black cat, the Cowboy :)
 
@@ -51,6 +53,7 @@ I am Lu Brito, an instructional designer working with the Government of Rio de J
 - Data Literacy  
 - Socially vulnerable communities
 - Race & Feminism
+- Open Knowledge initiatives
 
 ## Contact
 
