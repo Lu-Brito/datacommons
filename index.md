@@ -23,6 +23,14 @@ It adopts participatory and co-design methods to collaboratively develop learnin
   </tr>
 </table>
 
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header .btn {
+  display: none;
+}
 
 ## Early outputs
 
