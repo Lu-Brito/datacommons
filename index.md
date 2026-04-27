@@ -12,7 +12,7 @@ This project is part of a Ph.D research at UFRJ and investigates how communities
 
 This project is inspired by the pedagogical principles of Paulo Freire, particularly as articulated in *Pedagogy of the Oppressed*, emphasizing creativity, critical consciousness, dialogue, and collective knowledge production.
 
-It adopts participatory and co-design methods to collaboratively develop learning strategies with participants. These approaches are operationalized through creative workshops, where participants actively engage in the co-creation of data literacy practices and learning experiences.
+It adopts participatory and co-design methods to collaboratively develop learning strategies with participants. These approaches are operationalized through creative workshops, where participants actively engage in the co-creation of data literacy practices and learning experiences. 
 
 
 <table align="center">
